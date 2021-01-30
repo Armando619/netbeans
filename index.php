@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "hola mundo";
         echo "iiee";
         echo "ooo";
+        echo "eo"
         // put your code here
         ?>
     </body>
